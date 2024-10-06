@@ -80,7 +80,7 @@ public class EventListener implements Listener {
 
         inventory.clear();
         inventory.close();
-        System.out.println("인벤토리 초기화 됨.");
+        //System.out.println("인벤토리 초기화 됨.");
     }
 }
 
