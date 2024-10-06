@@ -1,0 +1,11 @@
+name: CustomShop
+version: '${version}'
+main: io.codenamemc.customshop.Main
+api-version: '1.21'
+commands:
+  shop:
+    usage: /shop
+    description: 상점 명령어
+  shopreload:
+    usage: /shopreload
+    description: 상점 리로드

@@ -1,0 +1,26 @@
+shopName: itemshop
+items:
+  0:
+    material: DIAMOND_SWORDc
+    buyPrice: 7
+    sellPrice: 4
+    amount: 1
+    lore:
+      - 테스트 첫번째 줄
+      - 두번째 줄
+  1:
+    material: IRON_HELMET
+    buyPrice: 5
+    sellPrice: 3
+    amount: 1
+    lore:
+      - 테스트 첫번째 줄
+      - 두번째 줄
+  2:
+    material: GOLDEN_APPLE
+    buyPrice: 10
+    sellPrice: 6
+    amount: 1
+    lore:
+      - 테스트 첫번째 줄
+      - 두번째 줄
