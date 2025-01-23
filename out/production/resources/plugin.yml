@@ -1,6 +1,6 @@
 name: CustomShop
 version: '${version}'
-main: kr.codenamemc.customshop.Main
+main: io.codenamemc.customshop.Main
 api-version: '1.21'
 commands:
   shop:

@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.jvm'
 }
 
-group = 'com.codenamemc'
+group = 'kr.codenamemc'
 version = '1.0'
 
 repositories {
